@@ -1,6 +1,6 @@
 # markSeven
 
-Fun translation app- any other fun translation app. This is your assignment. 
+Fun translation app- any other fun translation app. 
 This is similar to # markSix
 
 # Made a Pirate-Translation App
